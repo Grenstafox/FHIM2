@@ -1,0 +1,73 @@
+{
+    "bebidas": [
+      {
+        "id": 1,
+        "nombre": "Limonada",
+        "precio": 30,
+        "calorias": 80,
+        "categoria": "bebidas frías",
+        "imagen": "https://mi-sitio.com/imagenes/limonada.jpg",
+        "descripcion": "Refrescante bebida de limón natural",
+        "calificacion": 4.5,
+        "ingredientes": ["Limón", "Azúcar", "Agua"]
+      },
+      {
+        "id": 2,
+        "nombre": "Café Americano",
+        "precio": 30,
+        "calorias": 5,
+        "categoria": "bebidas frías",
+        "imagen": "https://mi-sitio.com/imagenes/cafe_americano.jpg",
+        "descripcion": "Café de grano 100% arábico",
+        "calificacion": 4.8,
+        "ingredientes": ["Café", "Agua"]
+      },
+      {
+        "id": 3,
+        "nombre": "Café Latte",
+        "precio": 50,
+        "calorias": 150,
+        "categoria": "bebidas calientes",
+        "imagen": "https://mi-sitio.com/imagenes/cafe_latte.jpg",
+        "descripcion": "Café con leche espumosa",
+        "calificacion": 4.2,
+        "ingredientes": ["Café", "Leche"]
+      }
+    ],
+    "licores": [
+      {
+        "id": 4,
+        "nombre": "Limonada",
+        "precio": 30,
+        "calorias": 80,
+        "categoria": "bebidas frías",
+        "imagen": "https://mi-sitio.com/imagenes/limonada.jpg",
+        "descripcion": "Refrescante bebida de limón natural",
+        "calificacion": 4.5,
+        "ingredientes": ["Limón", "Azúcar", "Agua"]
+      },
+      {
+        "id": 5,
+        "nombre": "Café Americano",
+        "precio": 30,
+        "calorias": 5,
+        "categoria": "bebidas frías",
+        "imagen": "https://mi-sitio.com/imagenes/cafe_americano.jpg",
+        "descripcion": "Café de grano 100% arábico",
+        "calificacion": 4.8,
+        "ingredientes": ["Café", "Agua"]
+      },
+      {
+        "id": 6,
+        "nombre": "Café Latte",
+        "precio": 50,
+        "calorias": 150,
+        "categoria": "bebidas calientes",
+        "imagen": "https://mi-sitio.com/imagenes/cafe_latte.jpg",
+        "descripcion": "Café con leche espumosa",
+        "calificacion": 4.2,
+        "ingredientes": ["Café", "Leche"]
+      }
+    ]
+  }
+  
