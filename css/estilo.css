@@ -445,9 +445,10 @@ input:focus ,textarea:focus{
 
 /*--team--*/
 .team, .mission {
-  flex: 1;
   background: #fff;
   border-radius: 10px;
+  width: 600px;
+  text-align: center;
 }
 
 .team, .mission h2{
@@ -467,7 +468,6 @@ input:focus ,textarea:focus{
   color: black;
   padding: 5px;
   width: 90%;
-  text-align: center;
 }
 
 .team h3, .mission h3 {
@@ -490,6 +490,18 @@ input:focus ,textarea:focus{
   width: 100%;
   max-width: 150px;
   border-radius: 50%;
+  margin-bottom: 10px;
+  background:  white;
+}
+
+.team-member2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.team-member2 img {
+  width: 100%;
+  max-width: 150px;
   margin-bottom: 10px;
   background:  white;
 }
